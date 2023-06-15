@@ -1,0 +1,24 @@
+# Dark-theme napari colour scheme for matplotlib plots
+
+# text (very light grey - almost white): #f0f1f2
+# foreground (mid grey):                 #414851
+# background (dark blue-gray):           #262930
+
+patch.facecolor:    262930
+patch.edgecolor:    262930
+patch.force_edgecolor: True
+
+figure.facecolor    : 262930
+figure.edgecolor    : 262930
+figure.patch.facecolor:    262930
+figure.patch.edgecolor:    262930
+figure.patch.force_edgecolor: True
+
+axes.labelcolor     : f0f1f2
+axes.facecolor      : 262930
+axes.edgecolor      : 414851
+axes.patch.facecolor:    262930
+axes.patch.edgecolor:    262930
+axes.patch.force_edgecolor: True
+xtick.color         : f0f1f2
+ytick.color         : f0f1f2
