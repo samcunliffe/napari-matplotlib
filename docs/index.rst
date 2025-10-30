@@ -20,3 +20,4 @@ map one or more Image layers on to a 1D histogram plot.
    third_party
    api
    changelog
+   developer_docs
