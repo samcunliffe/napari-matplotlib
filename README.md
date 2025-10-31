@@ -17,11 +17,6 @@ A plugin to create Matplotlib plots from napari layers
 
 Documentation can be found at https://napari-matplotlib.github.io/
 
-## Contributing
-
-Contributions are very welcome! Tests can be run with [tox], please ensure
-the coverage at least stays the same before you submit a pull request.
-
 ## License
 
 Distributed under the terms of the [BSD-3] license,
